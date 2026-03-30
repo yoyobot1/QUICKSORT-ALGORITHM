@@ -21,3 +21,17 @@ This project transforms raw sorting logic into a high-quality sensory experience
 - FFmpeg (Must be installed and added to your System PATH)
 
 - Python Libraries: matplotlib, numpy, flask
+
+
+
+To install dependencies:
+-Using Python:
+  pip install -r requirements.txt
+
+To run the generator:
+-Using Python:
+  python app.py
+
+
+To get the video:
+Visit http://localhost:5000/generate in your browser once the script is running, or if the script is not on your machine visit http://[IP_OF_YOUR_MACHINE]:5000/generate
