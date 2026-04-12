@@ -33,6 +33,7 @@ This repository is organized by language, allowing you to explore the QuickSort 
 ## 🛠️ Requirements
 
 Before running the Python script, ensure you have:
+
 For Python:
 1.  **Python 3.10+**
 2.  **FFmpeg**: Must be installed and added to your **System PATH**.
