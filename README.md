@@ -33,7 +33,7 @@ This repository is organized by language, allowing you to explore the QuickSort 
 ## 🛠️ Requirements
 
 Before running the Python script, ensure you have:
-
+For Python:
 1.  **Python 3.10+**
 2.  **FFmpeg**: Must be installed and added to your **System PATH**.
     * *Windows tip:* Download from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) and verify with `ffmpeg -version` in your terminal.
@@ -41,6 +41,11 @@ Before running the Python script, ensure you have:
     ```bash
     pip install matplotlib numpy flask
     ```
+
+For Java:
+1. **JDK 17+** (Java Development Kit)
+
+2. **FFmpeg**: (If the Java version calls FFmpeg for MP4 encoding)
 
 ---
 
@@ -70,6 +75,27 @@ Network: http://[YOUR_IP]:5000/generate
 
 The script will begin rendering. Once finished, the .mp4 file will be sent to your browser automatically.
 
+## ☕ Getting Started (Java Version)
+
+### 1. Installation
+
+The Java version provides a direct, high-performance visualization.
+
+Navigate to the directory:
+
+```Bash
+cd QUICKSORT-ALGORITHM/java
+```
+Compile the source:
+
+```Bash
+javac QuickSortVisualizer.java
+```
+Run the visualizer:
+
+```Bash
+java QuickSortVisualizer
+```
 💡 Pro-Tip for Creators
 The variable n = 180 in app.py controls the number of bars:
 
