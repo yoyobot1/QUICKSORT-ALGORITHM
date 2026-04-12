@@ -1,0 +1,20 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Project Specific Media (Ignore generated videos/audio)
+*.mp4
+*.wav
+temp_video.mp4
+temp_audio.wav
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env

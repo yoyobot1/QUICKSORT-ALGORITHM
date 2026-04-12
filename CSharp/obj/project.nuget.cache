@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7kszw+TnsM=",
+  "success": true,
+  "projectFilePath": "/workspaces/QUICKSORT-ALGORITHM/CSharp/CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.win32.systemevents/9.0.0/microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.drawing.common/9.0.0/system.drawing.common.9.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.0/microsoft.netcore.app.host.win-x64.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

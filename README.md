@@ -15,7 +15,7 @@ This project transforms raw sorting logic into a high-quality sensory experience
 This repository is organized by language, allowing you to explore the QuickSort implementation across different stacks:
 
 * **`/python`** : 🐍 **Current Main Version**. Uses Flask, Matplotlib, and FFmpeg for video generation.
-* **`/java`** : ☕ (Coming Soon) High-performance implementation.
+* **`/java`** : ☕ **available**. High-performance implementation.
 * **`/ c#`** : ⚡ (Coming Soon) Low-level memory management visualization.
 
 ---
@@ -64,6 +64,7 @@ python app.py
 Open your browser and visit:
 
 Local: http://localhost:5000/generate
+or : https://127.0.0.1:5000/generate
 
 Network: http://[YOUR_IP]:5000/generate
 
